@@ -1,0 +1,16 @@
+.contact_form {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  justify-content: center;
+  align-items: center;
+}
+
+.form_label{
+font-weight: 500;
+}
+
+.form_input{
+  margin-left: 5px;
+
+}

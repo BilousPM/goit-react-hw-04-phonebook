@@ -1,0 +1,11 @@
+
+.contact_lable {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 25px;
+  align-items: center;
+} 
+

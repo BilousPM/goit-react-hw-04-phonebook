@@ -1,0 +1,10 @@
+.phonebook{
+width: 500px;
+padding: 40px;
+background-color: #8dcaed;
+}
+
+.phonebook_title{
+  text-align: center;
+  font-size: 40px;
+}
